@@ -13,9 +13,9 @@ const Doctors = () => (
       <div className="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {[
           {
-            name: 'Dr. John Smith',
+            name: 'Dr. Mohit Sharma',
             specialty: 'Cardiologist',
-            img: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2',
+            img: 'https://www.meitra.com/public/upload_file/65084c37556581695042615.jpg',
           },
           {
             name: 'Dr. Sarah Johnson',
@@ -23,7 +23,7 @@ const Doctors = () => (
             img: 'https://img.freepik.com/free-photo/beautiful-young-female-doctor-looking-camera-office_1301-7807.jpg?semt=ais_hybrid&w=740',
           },
           {
-            name: 'Dr. Michael Lee',
+            name: 'Dr. Anu Malhotra',
             specialty: 'Interventional Cardiologist',
             img: 'https://images.unsplash.com/photo-1612349317150-e413f6a5b16d',
           },

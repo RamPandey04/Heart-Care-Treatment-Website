@@ -83,7 +83,7 @@ const Contact = () => {
             <h3 className="text-xl font-semibold text-red-600">Get in Touch</h3>
             <div className="flex items-center">
               <FaPhone className="text-red-600 mr-2" />
-              <p className="text-gray-600">+91 123-456-7890</p>
+              <p className="text-gray-600">+91 6263-365-5121</p>
             </div>
             <div className="flex items-center">
               <FaEnvelope className="text-red-600 mr-2" />
